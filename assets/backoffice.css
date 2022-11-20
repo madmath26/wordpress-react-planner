@@ -1,0 +1,13 @@
+.form-table {
+  display: block;
+}
+.form-table th {
+	padding: 8px 10px;
+}
+
+.optic_planner_row > th {
+  display:none;
+}
+.optic_planner_row > td {
+  padding: 0;
+}
